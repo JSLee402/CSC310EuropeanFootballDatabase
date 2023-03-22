@@ -1,1 +1,1 @@
-# CSC310SoccerDatabase
+# CSC310EuropeanFootballDatabase
